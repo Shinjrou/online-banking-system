@@ -4,7 +4,7 @@ Online Banking System
 
 ## Installation
 
-    The system doesn't require any intallation. 
+    The system doesn't require any installation. 
     However, it's needed that Java Runtime Environment(JRE) is installed to run the application.
     Visit the following website to install JRE.
     https://www.oracle.com/java/technologies/downloads/
